@@ -98,7 +98,7 @@ uv run --frozen python scripts/aggregate.py
 ## 当前统计
 
 <!--STATS-->
-更新于 **2026-11-28 00:45:33 北京时间**，共 **1875** 个去重节点
+更新于 **2026-11-28 09:29:53 北京时间**，共 **1821** 个去重节点
 
 | 上游源 | 节点数 |
 |---|---|
@@ -107,10 +107,10 @@ uv run --frozen python scripts/aggregate.py
 | shifeiquan | 135 |
 | snakem982 | 35 |
 | 0xRadikal | 40 |
-| nodesradar | 34 |
-| 735754647 | 136 |
-| Barabama | 9 |
-| anaer | 5 |
+| nodesradar | 38 |
+| 735754647 | 82 |
+| Barabama | 7 |
+| anaer | 3 |
 | MhdiTaheri | 9 |
 <!--/STATS-->
 
